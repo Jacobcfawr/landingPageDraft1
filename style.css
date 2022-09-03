@@ -10,7 +10,8 @@
 body {
   height: 100vh;
   background-image: url(cfadr.jpg);
-  background-size: auto;
+  background-size: contain;
+  background-repeat: no-repeat;  
   color: white;
   backdrop-filter: blur(11px);  
 }
